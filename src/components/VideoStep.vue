@@ -20,7 +20,7 @@
     <div class="video-frame">
       <div class="video-border-glow"></div>
       <video
-        src="https://res.cloudinary.com/YOUR_CLOUD_NAME/video/upload/v1234567890/YOUR_VIDEO_PUBLIC_ID.mp4"
+        src="https://res.cloudinary.com/dfcigeoaj/video/upload/v1780683250/Bday_krzgqp.mp4"
         controls
         playsinline
         controlsList="nodownload"
