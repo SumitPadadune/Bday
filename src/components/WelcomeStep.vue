@@ -8,6 +8,7 @@
 
     <!-- Heading -->
     <div class="heading-block">
+      
       <p class="subtitle">A birthday surprise</p>
       <h1 class="title" style="font-size: 2.6rem; text-align:center;">
         Hey Beautiful
